@@ -1,3 +1,42 @@
+.d-flex img {
+  width: 50px;
+}
+
+@media (min-width: 992px) {
+  .alto-100 {
+    /*Es necesario para flex*/
+    height: 100vh;
+  }
+}
+
+.footer {
+  background-color: #39b046;
+}
+
+.ground-green {
+  background-color: #39b046;
+}
+
+.ground-green-muslo {
+  background-color: #8ec544;
+}
+
+.ground-green-light {
+  background-color: #b7d138;
+}
+
+.ground-green-dark {
+  background-color: #264529;
+}
+
+.ground-green-middle {
+  background-color: #0f6a39;
+}
+
+.background-while {
+  background-color: #fff;
+}
+
 /*!
  * Bootstrap v5.0.0-beta3 (https://getbootstrap.com/)
  * Copyright 2011-2021 The Bootstrap Authors
